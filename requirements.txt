@@ -1,10 +1,6 @@
-fastapi
-uvicorn
-pydantic
-
-ipykernel
-scikit-learn
-numpy
-
-streamlit
-requests
+fastapi==0.127.0
+numpy==2.4.0
+pydantic==2.12.5
+scikit-learn==1.8.0
+uvicorn==0.40.0
+pandas==2.3.3
